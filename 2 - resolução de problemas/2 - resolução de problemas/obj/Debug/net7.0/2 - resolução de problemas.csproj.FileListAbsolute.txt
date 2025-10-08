@@ -1,0 +1,14 @@
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.AssemblyInfoInputs.cache
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.AssemblyInfo.cs
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.csproj.CoreCompileInputs.cache
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\bin\Debug\net7.0\2 - resolução de problemas.exe
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\bin\Debug\net7.0\2 - resolução de problemas.deps.json
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\bin\Debug\net7.0\2 - resolução de problemas.runtimeconfig.json
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\bin\Debug\net7.0\2 - resolução de problemas.dll
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\bin\Debug\net7.0\2 - resolução de problemas.pdb
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.dll
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\refint\2 - resolução de problemas.dll
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.pdb
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\2 - resolução de problemas.genruntimeconfig.cache
+D:\Luis Filipe  DDS01\1 - resolução de problemas\2 - resolução de problemas\2 - resolução de problemas\obj\Debug\net7.0\ref\2 - resolução de problemas.dll
